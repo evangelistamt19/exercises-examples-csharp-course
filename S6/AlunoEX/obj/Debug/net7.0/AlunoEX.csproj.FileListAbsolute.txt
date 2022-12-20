@@ -1,0 +1,15 @@
+M:\repos\AlunoEX\bin\Debug\net7.0\AlunoEX.exe
+M:\repos\AlunoEX\bin\Debug\net7.0\AlunoEX.deps.json
+M:\repos\AlunoEX\bin\Debug\net7.0\AlunoEX.runtimeconfig.json
+M:\repos\AlunoEX\bin\Debug\net7.0\AlunoEX.dll
+M:\repos\AlunoEX\bin\Debug\net7.0\AlunoEX.pdb
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.csproj.AssemblyReference.cache
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.AssemblyInfoInputs.cache
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.AssemblyInfo.cs
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.csproj.CoreCompileInputs.cache
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.dll
+M:\repos\AlunoEX\obj\Debug\net7.0\refint\AlunoEX.dll
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.pdb
+M:\repos\AlunoEX\obj\Debug\net7.0\AlunoEX.genruntimeconfig.cache
+M:\repos\AlunoEX\obj\Debug\net7.0\ref\AlunoEX.dll

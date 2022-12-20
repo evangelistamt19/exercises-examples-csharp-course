@@ -1,0 +1,15 @@
+M:\repos\SomaEx\bin\Debug\net7.0\SomaEx.exe
+M:\repos\SomaEx\bin\Debug\net7.0\SomaEx.deps.json
+M:\repos\SomaEx\bin\Debug\net7.0\SomaEx.runtimeconfig.json
+M:\repos\SomaEx\bin\Debug\net7.0\SomaEx.dll
+M:\repos\SomaEx\bin\Debug\net7.0\SomaEx.pdb
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.csproj.AssemblyReference.cache
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.AssemblyInfoInputs.cache
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.AssemblyInfo.cs
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.csproj.CoreCompileInputs.cache
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.dll
+M:\repos\SomaEx\obj\Debug\net7.0\refint\SomaEx.dll
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.pdb
+M:\repos\SomaEx\obj\Debug\net7.0\SomaEx.genruntimeconfig.cache
+M:\repos\SomaEx\obj\Debug\net7.0\ref\SomaEx.dll

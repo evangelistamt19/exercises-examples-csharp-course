@@ -1,0 +1,15 @@
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\Anot.exe
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\Anot.deps.json
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\Anot.runtimeconfig.json
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\Anot.dll
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\Anot.pdb
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.csproj.AssemblyReference.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.AssemblyInfoInputs.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.AssemblyInfo.cs
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.csproj.CoreCompileInputs.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.dll
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\refint\Anot.dll
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.pdb
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\Anot.genruntimeconfig.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ref\Anot.dll

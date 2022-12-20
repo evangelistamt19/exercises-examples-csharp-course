@@ -1,0 +1,15 @@
+M:\repos\FuncionarioEx\bin\Debug\net7.0\FuncionarioEx.exe
+M:\repos\FuncionarioEx\bin\Debug\net7.0\FuncionarioEx.deps.json
+M:\repos\FuncionarioEx\bin\Debug\net7.0\FuncionarioEx.runtimeconfig.json
+M:\repos\FuncionarioEx\bin\Debug\net7.0\FuncionarioEx.dll
+M:\repos\FuncionarioEx\bin\Debug\net7.0\FuncionarioEx.pdb
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.csproj.AssemblyReference.cache
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.AssemblyInfoInputs.cache
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.AssemblyInfo.cs
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.csproj.CoreCompileInputs.cache
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.dll
+M:\repos\FuncionarioEx\obj\Debug\net7.0\refint\FuncionarioEx.dll
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.pdb
+M:\repos\FuncionarioEx\obj\Debug\net7.0\FuncionarioEx.genruntimeconfig.cache
+M:\repos\FuncionarioEx\obj\Debug\net7.0\ref\FuncionarioEx.dll

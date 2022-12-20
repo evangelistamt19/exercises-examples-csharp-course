@@ -1,0 +1,15 @@
+M:\repos\ProdutoEx\bin\Debug\net7.0\ProdutoEx.exe
+M:\repos\ProdutoEx\bin\Debug\net7.0\ProdutoEx.deps.json
+M:\repos\ProdutoEx\bin\Debug\net7.0\ProdutoEx.runtimeconfig.json
+M:\repos\ProdutoEx\bin\Debug\net7.0\ProdutoEx.dll
+M:\repos\ProdutoEx\bin\Debug\net7.0\ProdutoEx.pdb
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.csproj.AssemblyReference.cache
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.AssemblyInfoInputs.cache
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.AssemblyInfo.cs
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.csproj.CoreCompileInputs.cache
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.dll
+M:\repos\ProdutoEx\obj\Debug\net7.0\refint\ProdutoEx.dll
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.pdb
+M:\repos\ProdutoEx\obj\Debug\net7.0\ProdutoEx.genruntimeconfig.cache
+M:\repos\ProdutoEx\obj\Debug\net7.0\ref\ProdutoEx.dll

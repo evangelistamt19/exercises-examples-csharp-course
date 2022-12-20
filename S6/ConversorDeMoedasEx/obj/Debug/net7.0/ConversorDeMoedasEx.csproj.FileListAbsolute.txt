@@ -1,0 +1,15 @@
+M:\repos\ConversorDeMoedasEx\bin\Debug\net7.0\ConversorDeMoedasEx.exe
+M:\repos\ConversorDeMoedasEx\bin\Debug\net7.0\ConversorDeMoedasEx.deps.json
+M:\repos\ConversorDeMoedasEx\bin\Debug\net7.0\ConversorDeMoedasEx.runtimeconfig.json
+M:\repos\ConversorDeMoedasEx\bin\Debug\net7.0\ConversorDeMoedasEx.dll
+M:\repos\ConversorDeMoedasEx\bin\Debug\net7.0\ConversorDeMoedasEx.pdb
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.csproj.AssemblyReference.cache
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.AssemblyInfoInputs.cache
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.AssemblyInfo.cs
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.csproj.CoreCompileInputs.cache
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.dll
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\refint\ConversorDeMoedasEx.dll
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.pdb
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ConversorDeMoedasEx.genruntimeconfig.cache
+M:\repos\ConversorDeMoedasEx\obj\Debug\net7.0\ref\ConversorDeMoedasEx.dll

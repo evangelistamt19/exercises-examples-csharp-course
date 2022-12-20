@@ -1,0 +1,15 @@
+M:\repos\WhileEx\bin\Debug\net7.0\WhileEx.exe
+M:\repos\WhileEx\bin\Debug\net7.0\WhileEx.deps.json
+M:\repos\WhileEx\bin\Debug\net7.0\WhileEx.runtimeconfig.json
+M:\repos\WhileEx\bin\Debug\net7.0\WhileEx.dll
+M:\repos\WhileEx\bin\Debug\net7.0\WhileEx.pdb
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.csproj.AssemblyReference.cache
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.AssemblyInfoInputs.cache
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.AssemblyInfo.cs
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.csproj.CoreCompileInputs.cache
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.dll
+M:\repos\WhileEx\obj\Debug\net7.0\refint\WhileEx.dll
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.pdb
+M:\repos\WhileEx\obj\Debug\net7.0\WhileEx.genruntimeconfig.cache
+M:\repos\WhileEx\obj\Debug\net7.0\ref\WhileEx.dll

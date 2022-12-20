@@ -1,0 +1,15 @@
+M:\repos\ImparParEx\bin\Debug\net7.0\ImparParEx.exe
+M:\repos\ImparParEx\bin\Debug\net7.0\ImparParEx.deps.json
+M:\repos\ImparParEx\bin\Debug\net7.0\ImparParEx.runtimeconfig.json
+M:\repos\ImparParEx\bin\Debug\net7.0\ImparParEx.dll
+M:\repos\ImparParEx\bin\Debug\net7.0\ImparParEx.pdb
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.csproj.AssemblyReference.cache
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.AssemblyInfoInputs.cache
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.AssemblyInfo.cs
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.csproj.CoreCompileInputs.cache
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.dll
+M:\repos\ImparParEx\obj\Debug\net7.0\refint\ImparParEx.dll
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.pdb
+M:\repos\ImparParEx\obj\Debug\net7.0\ImparParEx.genruntimeconfig.cache
+M:\repos\ImparParEx\obj\Debug\net7.0\ref\ImparParEx.dll

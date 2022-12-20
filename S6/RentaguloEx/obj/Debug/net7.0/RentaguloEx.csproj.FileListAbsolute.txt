@@ -1,0 +1,15 @@
+M:\repos\RentaguloEx\bin\Debug\net7.0\RentaguloEx.exe
+M:\repos\RentaguloEx\bin\Debug\net7.0\RentaguloEx.deps.json
+M:\repos\RentaguloEx\bin\Debug\net7.0\RentaguloEx.runtimeconfig.json
+M:\repos\RentaguloEx\bin\Debug\net7.0\RentaguloEx.dll
+M:\repos\RentaguloEx\bin\Debug\net7.0\RentaguloEx.pdb
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.csproj.AssemblyReference.cache
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.AssemblyInfoInputs.cache
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.AssemblyInfo.cs
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.csproj.CoreCompileInputs.cache
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.dll
+M:\repos\RentaguloEx\obj\Debug\net7.0\refint\RentaguloEx.dll
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.pdb
+M:\repos\RentaguloEx\obj\Debug\net7.0\RentaguloEx.genruntimeconfig.cache
+M:\repos\RentaguloEx\obj\Debug\net7.0\ref\RentaguloEx.dll

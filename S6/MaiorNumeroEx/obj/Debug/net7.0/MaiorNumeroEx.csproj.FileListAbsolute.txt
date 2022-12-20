@@ -1,0 +1,15 @@
+M:\repos\MaiorNumeroEx\bin\Debug\net7.0\MaiorNumeroEx.exe
+M:\repos\MaiorNumeroEx\bin\Debug\net7.0\MaiorNumeroEx.deps.json
+M:\repos\MaiorNumeroEx\bin\Debug\net7.0\MaiorNumeroEx.runtimeconfig.json
+M:\repos\MaiorNumeroEx\bin\Debug\net7.0\MaiorNumeroEx.dll
+M:\repos\MaiorNumeroEx\bin\Debug\net7.0\MaiorNumeroEx.pdb
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.csproj.AssemblyReference.cache
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.AssemblyInfoInputs.cache
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.AssemblyInfo.cs
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.csproj.CoreCompileInputs.cache
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.dll
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\refint\MaiorNumeroEx.dll
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.pdb
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\MaiorNumeroEx.genruntimeconfig.cache
+M:\repos\MaiorNumeroEx\obj\Debug\net7.0\ref\MaiorNumeroEx.dll

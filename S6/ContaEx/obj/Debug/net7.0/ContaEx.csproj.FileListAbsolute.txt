@@ -1,0 +1,15 @@
+M:\repos\ContaEx\bin\Debug\net7.0\ContaEx.exe
+M:\repos\ContaEx\bin\Debug\net7.0\ContaEx.deps.json
+M:\repos\ContaEx\bin\Debug\net7.0\ContaEx.runtimeconfig.json
+M:\repos\ContaEx\bin\Debug\net7.0\ContaEx.dll
+M:\repos\ContaEx\bin\Debug\net7.0\ContaEx.pdb
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.csproj.AssemblyReference.cache
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.AssemblyInfoInputs.cache
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.AssemblyInfo.cs
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.csproj.CoreCompileInputs.cache
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.dll
+M:\repos\ContaEx\obj\Debug\net7.0\refint\ContaEx.dll
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.pdb
+M:\repos\ContaEx\obj\Debug\net7.0\ContaEx.genruntimeconfig.cache
+M:\repos\ContaEx\obj\Debug\net7.0\ref\ContaEx.dll

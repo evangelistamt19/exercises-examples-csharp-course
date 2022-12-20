@@ -1,0 +1,15 @@
+M:\repos\TrianguloEx\bin\Debug\net7.0\TrianguloEx.exe
+M:\repos\TrianguloEx\bin\Debug\net7.0\TrianguloEx.deps.json
+M:\repos\TrianguloEx\bin\Debug\net7.0\TrianguloEx.runtimeconfig.json
+M:\repos\TrianguloEx\bin\Debug\net7.0\TrianguloEx.dll
+M:\repos\TrianguloEx\bin\Debug\net7.0\TrianguloEx.pdb
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.csproj.AssemblyReference.cache
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.AssemblyInfoInputs.cache
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.AssemblyInfo.cs
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.csproj.CoreCompileInputs.cache
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.dll
+M:\repos\TrianguloEx\obj\Debug\net7.0\refint\TrianguloEx.dll
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.pdb
+M:\repos\TrianguloEx\obj\Debug\net7.0\TrianguloEx.genruntimeconfig.cache
+M:\repos\TrianguloEx\obj\Debug\net7.0\ref\TrianguloEx.dll

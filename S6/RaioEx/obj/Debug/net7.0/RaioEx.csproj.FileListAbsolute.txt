@@ -1,0 +1,15 @@
+M:\repos\RaioEx\bin\Debug\net7.0\RaioEx.exe
+M:\repos\RaioEx\bin\Debug\net7.0\RaioEx.deps.json
+M:\repos\RaioEx\bin\Debug\net7.0\RaioEx.runtimeconfig.json
+M:\repos\RaioEx\bin\Debug\net7.0\RaioEx.dll
+M:\repos\RaioEx\bin\Debug\net7.0\RaioEx.pdb
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.csproj.AssemblyReference.cache
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.AssemblyInfoInputs.cache
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.AssemblyInfo.cs
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.csproj.CoreCompileInputs.cache
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.dll
+M:\repos\RaioEx\obj\Debug\net7.0\refint\RaioEx.dll
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.pdb
+M:\repos\RaioEx\obj\Debug\net7.0\RaioEx.genruntimeconfig.cache
+M:\repos\RaioEx\obj\Debug\net7.0\ref\RaioEx.dll

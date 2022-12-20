@@ -1,0 +1,15 @@
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\ExsEstruturaSequencial.exe
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\ExsEstruturaSequencial.deps.json
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\ExsEstruturaSequencial.runtimeconfig.json
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\ExsEstruturaSequencial.dll
+M:\repos\ExsEstruturaSequencial\bin\Debug\net7.0\ExsEstruturaSequencial.pdb
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.csproj.AssemblyReference.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.AssemblyInfoInputs.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.AssemblyInfo.cs
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.csproj.CoreCompileInputs.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.dll
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\refint\ExsEstruturaSequencial.dll
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.pdb
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ExsEstruturaSequencial.genruntimeconfig.cache
+M:\repos\ExsEstruturaSequencial\obj\Debug\net7.0\ref\ExsEstruturaSequencial.dll

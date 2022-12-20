@@ -1,0 +1,15 @@
+M:\repos\ForEx\bin\Debug\net7.0\ForEx.exe
+M:\repos\ForEx\bin\Debug\net7.0\ForEx.deps.json
+M:\repos\ForEx\bin\Debug\net7.0\ForEx.runtimeconfig.json
+M:\repos\ForEx\bin\Debug\net7.0\ForEx.dll
+M:\repos\ForEx\bin\Debug\net7.0\ForEx.pdb
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.csproj.AssemblyReference.cache
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.AssemblyInfoInputs.cache
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.AssemblyInfo.cs
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.csproj.CoreCompileInputs.cache
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.dll
+M:\repos\ForEx\obj\Debug\net7.0\refint\ForEx.dll
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.pdb
+M:\repos\ForEx\obj\Debug\net7.0\ForEx.genruntimeconfig.cache
+M:\repos\ForEx\obj\Debug\net7.0\ref\ForEx.dll

@@ -1,0 +1,15 @@
+M:\repos\PessoaEx\bin\Debug\net7.0\PessoaEx.exe
+M:\repos\PessoaEx\bin\Debug\net7.0\PessoaEx.deps.json
+M:\repos\PessoaEx\bin\Debug\net7.0\PessoaEx.runtimeconfig.json
+M:\repos\PessoaEx\bin\Debug\net7.0\PessoaEx.dll
+M:\repos\PessoaEx\bin\Debug\net7.0\PessoaEx.pdb
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.csproj.AssemblyReference.cache
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.AssemblyInfoInputs.cache
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.AssemblyInfo.cs
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.csproj.CoreCompileInputs.cache
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.dll
+M:\repos\PessoaEx\obj\Debug\net7.0\refint\PessoaEx.dll
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.pdb
+M:\repos\PessoaEx\obj\Debug\net7.0\PessoaEx.genruntimeconfig.cache
+M:\repos\PessoaEx\obj\Debug\net7.0\ref\PessoaEx.dll
